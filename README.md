@@ -28,7 +28,7 @@ max-width: 900px;
 ## 🚀 About Me
 - 🌱 Learning **JavaScript + Backend**
 - 💻 Focused on **Frontend UI/UX**
-- 🎓 Pursuing **BCA**
+- 🎓 **BCA** Graduated
 - ⚡ Passionate about modern web design
 
 ---
