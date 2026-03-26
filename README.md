@@ -5,7 +5,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Learning+Golang;Building+Cool+Projects;Open+to+Opportunities🚀">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Learning+JavaScript;Building+Cool+Projects;Open+to+Opportunities🚀">
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Golang & Backend**
+- 🌱 Currently learning **JavaScript & Backend**
 - 💻 Ask me about **Frontend Development**
 - 🎓 Pursuing **BCA**
 - ⚡ Fun fact: I love building cool UI
@@ -70,7 +70,7 @@
 ---
 
 ## 🎯 Current Focus
-> 🚀 "Diving deep into Golang & backend systems"
+> 🚀 "Diving deep into JavaScript & Backend"
 
 ---
 
