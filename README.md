@@ -6,7 +6,6 @@
 
 ---
 
-<!-- NEON GLASS CONTAINER -->
 <div align="center">
 <table>
 <tr>
@@ -20,18 +19,9 @@ border: 1px solid rgba(0,247,255,0.25);
 box-shadow: 0 0 40px rgba(0,247,255,0.25);
 ">
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=24&lines=Building+Modern+Web+Apps;Frontend+Developer;Learning+Backend;Open+to+Work🚀">
-</p>
-
----
-
-<!-- STATUS BADGES -->
-<p align="center">
-<img src="https://img.shields.io/badge/Role-Frontend%20Developer-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-Backend-0f2027?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Work-00c853?style=for-the-badge"/>
 </p>
 
 ---
@@ -66,7 +56,36 @@ box-shadow: 0 0 40px rgba(0,247,255,0.25);
 
 ---
 
-## 💼 Featured Projects
+# 💼 Featured Projects
+
+<!-- TODO PROJECT CARD -->
+<table>
+<tr>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/Billu06092002/todo-app/main/screenshot.png" width="100%"/>
+</td>
+
+<td width="60%">
+
+### 🚀 Smart Todo App
+
+A premium Todo application built with JavaScript featuring:
+
+- 🔍 Smart Search  
+- 🎯 Filters (All / Completed / Pending)  
+- 🌙 Dark Mode (saved)  
+- 🧲 Drag & Drop  
+- 💾 Local Storage  
+
+🔗 <a href="https://Billu06092002.github.io/todo-app/">Live Demo</a>  
+🔗 <a href="https://github.com/Billu06092002/todo-app">GitHub Repo</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <p align="center">
 
 🔹 **Portfolio Website**  
