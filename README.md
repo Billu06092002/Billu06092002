@@ -70,13 +70,13 @@ box-shadow: 0 0 40px rgba(0,247,255,0.25);
 <p align="center">
 
 🔹 **Portfolio Website**  
-👉 https://your-portfolio-link.com  
+👉 Under Construction  
 
 🔹 **Frontend UI Project**  
-👉 https://your-project-link.com  
+👉 https://superlative-starburst-db1cb2.netlify.app/  
 
 🔹 **JavaScript App**  
-👉 https://your-project-link.com  
+👉 Under Construction  
 
 </p>
 
