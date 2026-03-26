@@ -22,7 +22,7 @@ box-shadow: 0 0 40px rgba(0,247,255,0.25);
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=24&lines=Building+Modern+Web+Apps;Frontend+Specialist;Learning+Backend;Open+to+Work🚀">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=24&lines=Building+Modern+Web+Apps;Frontend+Developer;Learning+Backend;Open+to+Work🚀">
 </p>
 
 ---
