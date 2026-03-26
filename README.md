@@ -7,16 +7,15 @@
 ---
 
 <div align="center">
-<table>
-<tr>
-<td>
 
+<!-- GLASS CARD -->
 <div style="
 background: linear-gradient(145deg, rgba(0,0,0,0.6), rgba(0,247,255,0.08));
 border-radius: 25px;
 padding: 35px;
 border: 1px solid rgba(0,247,255,0.25);
 box-shadow: 0 0 40px rgba(0,247,255,0.25);
+max-width: 900px;
 ">
 
 <!-- TYPING -->
@@ -27,10 +26,10 @@ box-shadow: 0 0 40px rgba(0,247,255,0.25);
 ---
 
 ## 🚀 About Me
-- 🌱 Learning **JavaScript + Backend Development**
-- 💻 Focused on **Frontend UI & UX**
+- 🌱 Learning **JavaScript + Backend**
+- 💻 Focused on **Frontend UI/UX**
 - 🎓 Pursuing **BCA**
-- ⚡ Passionate about **modern web design**
+- ⚡ Passionate about modern web design
 
 ---
 
@@ -44,12 +43,9 @@ box-shadow: 0 0 40px rgba(0,247,255,0.25);
 ## 📊 Skill Progress
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML-85%25-00F7FF?style=for-the-badge&logo=html5"/>
-<br><br>
-<img src="https://img.shields.io/badge/CSS-80%25-00F7FF?style=for-the-badge&logo=css3"/>
-<br><br>
-<img src="https://img.shields.io/badge/JavaScript-65%25-00F7FF?style=for-the-badge&logo=javascript"/>
-<br><br>
+<img src="https://img.shields.io/badge/HTML-85%25-00F7FF?style=for-the-badge&logo=html5"/><br><br>
+<img src="https://img.shields.io/badge/CSS-80%25-00F7FF?style=for-the-badge&logo=css3"/><br><br>
+<img src="https://img.shields.io/badge/JavaScript-65%25-00F7FF?style=for-the-badge&logo=javascript"/><br><br>
 <img src="https://img.shields.io/badge/React-60%25-00F7FF?style=for-the-badge&logo=react"/>
 
 </p>
@@ -58,46 +54,41 @@ box-shadow: 0 0 40px rgba(0,247,255,0.25);
 
 # 💼 Featured Projects
 
-<!-- TODO PROJECT CARD -->
-<table>
-<tr>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/Billu06092002/todo-app/main/Screenshot.png" width="100%"/>
-</td>
+<!-- PROJECT CARD -->
+<div style="
+display: flex;
+flex-wrap: wrap;
+gap: 20px;
+justify-content: center;
+">
 
-<td width="60%">
+<!-- TODO APP -->
+<div style="
+width: 380px;
+background: rgba(255,255,255,0.05);
+border-radius: 20px;
+padding: 15px;
+border: 1px solid rgba(0,247,255,0.2);
+box-shadow: 0 0 20px rgba(0,247,255,0.15);
+transition: 0.3s;
+">
 
-### 🚀 Smart Todo App
+<img src="https://raw.githubusercontent.com/Billu06092002/todo-app/main/Screenshot.png" style="width:100%; border-radius:10px;"/>
 
-A premium Todo application built with JavaScript featuring:
+<h3>🚀 Smart Todo App</h3>
 
-- 🔍 Smart Search  
-- 🎯 Filters (All / Completed / Pending)  
-- 🌙 Dark Mode (saved)  
-- 🧲 Drag & Drop  
-- 💾 Local Storage  
-
-🔗 <a href="https://Billu06092002.github.io/todo-app/">Live Demo</a>  
-🔗 <a href="https://github.com/Billu06092002/todo-app">GitHub Repo</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-
-🔹 **Portfolio Website**  
-👉 Under Construction  
-
-🔹 **Frontend UI Project**  
-👉 https://superlative-starburst-db1cb2.netlify.app/  
-
-🔹 **JavaScript App**  
-👉 Under Construction  
-
+<p>
+Modern Todo app with drag & drop, dark mode, filters, and smart search.
 </p>
+
+<p>
+<a href="https://Billu06092002.github.io/todo-app/">🔗 Live</a> |
+<a href="https://github.com/Billu06092002/todo-app">💻 Code</a>
+</p>
+
+</div>
+
+</div>
 
 ---
 
@@ -111,21 +102,17 @@ A premium Todo application built with JavaScript featuring:
 
 ## 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Billu06092002&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Billu06092002&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
 ## 🐍 Snake Animation
 <p align="center">
-<img src="https://raw.githubusercontent.com/Billu06092002/Billu06092002/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Billu06092002/Billu06092002/output/github-contribution-grid-snake.svg"/>
 </p>
 
 </div>
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -144,7 +131,7 @@ A premium Todo application built with JavaScript featuring:
 
 ## 🎯 Current Focus
 <p align="center">
-<img src="https://img.shields.io/badge/🚀%20Deep%20Focus-JavaScript%20%26%20Backend-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Focus-JavaScript%20%26%20Backend-00F7FF?style=for-the-badge"/>
 </p>
 
 ---
