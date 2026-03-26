@@ -62,7 +62,7 @@ box-shadow: 0 0 40px rgba(0,247,255,0.25);
 <table>
 <tr>
 <td width="40%">
-<img src="https://raw.githubusercontent.com/Billu06092002/todo-app/main/Screenshot.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Billu06092002/todo-app/main/screenshot.png" width="100%"/>
 </td>
 
 <td width="60%">
@@ -77,7 +77,7 @@ A premium Todo application built with JavaScript featuring:
 - 🧲 Drag & Drop  
 - 💾 Local Storage  
 
-🔗 <a href="https://Billu06092002.github.io/todo-app/">Live Demo</a>  
+🔗 <a href="https://yourusername.github.io/todo-app/">Live Demo</a>  
 🔗 <a href="https://github.com/Billu06092002/todo-app">GitHub Repo</a>
 
 </td>
