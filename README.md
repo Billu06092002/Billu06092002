@@ -52,19 +52,16 @@ box-shadow: 0 0 40px rgba(0,247,255,0.25);
 ---
 
 ## 📊 Skill Progress
+## 📊 Skill Progress
 <p align="center">
 
-HTML  
-<img src="https://progress-bar.dev/85/?title=HTML&width=500&color=00F7FF"/>
-
-CSS  
-<img src="https://progress-bar.dev/80/?title=CSS&width=500&color=00F7FF"/>
-
-JavaScript  
-<img src="https://progress-bar.dev/65/?title=JavaScript&width=500&color=00F7FF"/>
-
-React  
-<img src="https://progress-bar.dev/60/?title=React&width=500&color=00F7FF"/>
+<img src="https://img.shields.io/badge/HTML-85%25-00F7FF?style=for-the-badge&logo=html5"/>
+<br><br>
+<img src="https://img.shields.io/badge/CSS-80%25-00F7FF?style=for-the-badge&logo=css3"/>
+<br><br>
+<img src="https://img.shields.io/badge/JavaScript-65%25-00F7FF?style=for-the-badge&logo=javascript"/>
+<br><br>
+<img src="https://img.shields.io/badge/React-60%25-00F7FF?style=for-the-badge&logo=react"/>
 
 </p>
 
