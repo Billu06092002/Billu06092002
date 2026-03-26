@@ -52,7 +52,6 @@ box-shadow: 0 0 40px rgba(0,247,255,0.25);
 ---
 
 ## 📊 Skill Progress
-## 📊 Skill Progress
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML-85%25-00F7FF?style=for-the-badge&logo=html5"/>
