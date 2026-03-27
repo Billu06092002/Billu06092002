@@ -119,9 +119,6 @@ Modern Todo app with drag & drop, dark mode, filters, and smart search.
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_ID">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
 <a href="https://github.com/Billu06092002">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
